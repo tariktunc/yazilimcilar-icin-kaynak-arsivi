@@ -15,6 +15,11 @@ Selamlar, Kolay Değil topluluğu olarak yazılımcılar için faydalı kaynakla
 
 - Online olarak sunulan (çoğunlukla) ücretsiz yazılım kurslarının listesi için [buraya](./COURSES.md) gidiniz.
 - Online olarak sunulan yazılım ile ilgili kitap listesi için [buraya](./BOOKS.md) gidiniz.
+- Yazılım alanlarına göre yol haritaları için [buraya](./ROADMAPS.md) gidiniz.
+- Faydalı YouTube kanalları için [buraya](./YOUTUBE.md) gidiniz.
+- Günlük işi hızlandıran araçlar için [buraya](./TOOLS.md) gidiniz.
+- Hızlı referans kopya kağıtları için [buraya](./CHEATSHEETS.md) gidiniz.
+- Yazılım podcastleri için [buraya](./PODCASTS.md) gidiniz.
 
 > Kaynak arşivine katkı sağlamadan önce lütfen [Contribution Guide](./CONTRIBUTING.md)'a göz atınız.
 
